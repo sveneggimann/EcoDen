@@ -10,6 +10,6 @@ XX, XX-XX.
 
 
 Instructions on how to install and run EcoDen 
-and how to prepare your geographical datas can 
+and how to prepare your geographical data can 
 be found on the wiki of this site.
 
