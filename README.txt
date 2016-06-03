@@ -5,8 +5,7 @@ EcoDen - Model to assess economies of densities
 Detailed information about EcoDen can be found in
 
 Eggimann, S., Truffer, B., Maurer, M., 2016. Economies 
-of densities for waste water treatment. JOURNAL,
-XX, XX-XX.
+of densities for waste water treatment. Water Research.
 
 
 Instructions on how to install and run EcoDen 
