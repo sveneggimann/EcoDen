@@ -1,5 +1,5 @@
 # ======================================================================================
-# Copyright 2014  Swiss Federal Institute of Aquatic Science and Technology
+# Copyright 2016  Swiss Federal Institute of Aquatic Science and Technology
 #
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
@@ -21,7 +21,7 @@
                         
 # Contact:   sven.eggimann@eawag.ch
 # Version    1.0
-# Date:      1.6.2015
+# Date:      3.6.2016
 # Autor:     Eggimann Sven
 # ======================================================================================
 import os, sys, random, math, copy, numpy  # Imports
