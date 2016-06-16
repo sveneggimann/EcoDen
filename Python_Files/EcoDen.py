@@ -16,7 +16,7 @@
 #    
 # Literature
 # ==========
-# Eggimann Sven, Truffer Bernhard, Maurer Max (2016): Economies of density for waste water treatment. Water Research
+# Eggimann, S., Truffer, B., Maurer, M., 2016. Economies of densities for waste water treatment. Water Research, 101, 476–489.
 #
                         
 # Contact:   sven.eggimann@eawag.ch
